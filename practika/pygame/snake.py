@@ -83,7 +83,7 @@ while not game_over:
             if q == snake_List2:
                 game_over = True
 
-    # print(snake_List)
+
     our_snake(BLOCK, snake_List)
 
     if x == a and y == c:
